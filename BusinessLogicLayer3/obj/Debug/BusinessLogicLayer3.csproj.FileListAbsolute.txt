@@ -1,0 +1,11 @@
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\bin\Debug\BusinessLogicLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\bin\Debug\BusinessLogicLayer3.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\bin\Debug\DataAccessLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\bin\Debug\EntityLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\bin\Debug\DataAccessLayer3.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\bin\Debug\EntityLayer3.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\obj\Debug\BusinessLogicLayer3.csprojAssemblyReference.cache
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\obj\Debug\BusinessLogicLayer3.csproj.CoreCompileInputs.cache
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\obj\Debug\BusinessLogicLayer3.csproj.CopyComplete
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\obj\Debug\BusinessLogicLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\BusinessLogicLayer3\obj\Debug\BusinessLogicLayer3.pdb

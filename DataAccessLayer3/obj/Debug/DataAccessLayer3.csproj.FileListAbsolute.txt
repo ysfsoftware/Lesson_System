@@ -1,0 +1,9 @@
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\bin\Debug\DataAccessLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\bin\Debug\DataAccessLayer3.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\bin\Debug\EntityLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\bin\Debug\EntityLayer3.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\obj\Debug\DataAccessLayer3.csprojAssemblyReference.cache
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\obj\Debug\DataAccessLayer3.csproj.CoreCompileInputs.cache
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\obj\Debug\DataAccessLayer3.csproj.CopyComplete
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\obj\Debug\DataAccessLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\DataAccessLayer3\obj\Debug\DataAccessLayer3.pdb

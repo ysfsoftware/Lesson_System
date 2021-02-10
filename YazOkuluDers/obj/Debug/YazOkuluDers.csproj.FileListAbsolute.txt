@@ -1,0 +1,16 @@
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\YazOkuluDers.dll.config
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\YazOkuluDers.dll
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\YazOkuluDers.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\obj\Debug\YazOkuluDers.csprojAssemblyReference.cache
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\obj\Debug\YazOkuluDers.csproj.CoreCompileInputs.cache
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\obj\Debug\YazOkuluDers.dll
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\obj\Debug\YazOkuluDers.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\BusinessLogicLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\DataAccessLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\EntityLayer3.dll
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\BusinessLogicLayer3.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\DataAccessLayer3.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\bin\EntityLayer3.pdb
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\obj\Debug\Interop.Accessibility.dll
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\obj\Debug\YazOkuluDers.csproj.ResolveComReference.cache
+C:\Users\hierr\source\repos\YazOkuluDers\YazOkuluDers\obj\Debug\YazOkuluDers.csproj.CopyComplete
